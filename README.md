@@ -25,5 +25,6 @@ Este proyecto acepta contribuciones. Si deseas contribuir, asegúrate de seguir 
 
 
 Autor
-Creado por Valeria Montero Barrientos (vamontero@estudiantec.cr) y Sebastián Azofeifa (sazofeifa@estudiantec.cr) - 
+Creado por Valeria Montero Barrientos (vamontero@estudiantec.cr) y Sebastián Azofeifa (sazofeifa@estudiantec.cr) 
+Link: https://github.com/vamontero/Proyecto.git
 
